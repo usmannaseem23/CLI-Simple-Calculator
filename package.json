@@ -7,7 +7,7 @@
     "inquirer": "^9.2.23"
   },
   "name": "usman-cli-simple-calculator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "type": "module",
   "publishConfig": {
